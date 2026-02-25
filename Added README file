@@ -1,0 +1,13 @@
+
+# Hangman Game - CodeAlpha Internship
+
+This is a simple Python Hangman Game created for Task 1 of the CodeAlpha Internship.
+
+Features:
+- 5 predefined words
+- 6 incorrect attempts allowed
+- Uses loops, conditions, and random module
+
+How to Run:
+1. Install Python
+2. Run: python hangman.py
